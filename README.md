@@ -19,7 +19,7 @@
 - cd ecommerce-backend
 - mvn spring-boot:run
 
-## Install dependencies (node modules) in ems-frontend
+## Install dependencies (node modules) in ecommerce-frontend
 
 - ecommerce-frontend
 - npm install
@@ -27,7 +27,7 @@
 ## Start frontend (localhost:3000)
 
 - cd ecommerce-frontend
-- npm run dev
+- npm run start
 
 ## Project API endpoints (coming soon..)
 
